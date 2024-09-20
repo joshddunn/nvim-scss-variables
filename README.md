@@ -6,6 +6,8 @@ Replaces hex colors with a scss variable if it exists.
 
 ### Lazy
 
+`ripgrep` needs to be installed on your system.
+
 ```lua
 {
   "joshddunn/nvim-scss-variables",
